@@ -35,6 +35,126 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Zaorejas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T02:22:47.648Z",
+      "notes": "",
+      "position": {
+        "lat": "40.76505141426344",
+        "lng": "-2.1533203125000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Villamol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T02:23:09.751Z",
+      "notes": "Test",
+      "position": {
+        "lat": "42.42521483990863",
+        "lng": "-5.053710937500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Villamol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T02:23:09.751Z",
+      "notes": "Test",
+      "position": {
+        "lat": "42.42521483990863",
+        "lng": "-5.053710937500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Malpartida de Corneja",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T02:23:20.018Z",
+      "notes": "",
+      "position": {
+        "lat": "40.50150752426414",
+        "lng": "-5.361328125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-29T02:24:37.950Z",
+      "notes": "Test",
+      "position": {
+        "lat": "18.60050030883324",
+        "lng": "73.93249511718751"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-08-29T02:27:10.392Z",
+      "notes": "das",
+      "position": {
+        "lat": "39.18872277880219",
+        "lng": "33.13476562500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Nolay",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-29T02:31:43.272Z",
+      "notes": "",
+      "position": {
+        "lat": "46.964192225916214",
+        "lng": "4.614257812500001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Kongen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-08-29T02:31:43.272Z",
+      "notes": "",
+      "position": {
+        "lat": "48.67689366452594",
+        "lng": "9.338378906250002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-08-29T02:33:24.737Z",
+      "notes": "",
+      "position": {
+        "lat": "25.33139345010443",
+        "lng": "19.687500000000004"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-29T02:35:18.039Z",
+      "notes": "Awesome!",
+      "position": {
+        "lat": "28.59306411766875",
+        "lng": "77.22290039062501"
+      },
+      "id": 98443207
     }
   ]
 }
