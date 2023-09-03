@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Zafra de Zancara",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T10:07:38.888Z",
+      "notes": "",
+      "position": {
+        "lat": "39.912968535515986",
+        "lng": "-2.6147460937500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Villarejo de Fuentes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T10:08:28.482Z",
+      "notes": "",
+      "position": {
+        "lat": "39.77665737301136",
+        "lng": "-2.65869140625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Wasi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-03T10:14:41.628Z",
+      "notes": "",
+      "position": {
+        "lat": "18.641864832728338",
+        "lng": "75.8990478515625"
+      },
+      "id": 3
+    }
+  ]
 }
