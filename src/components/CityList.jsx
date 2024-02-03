@@ -6,6 +6,7 @@ import { useCities } from "../contexts/CitiesContext";
 
 function CityList() {
   const { cities, isLoding } = useCities();
+  console.log(cities);
   if (isLoding) return <Spinner />;
 
   if (!cities.length)
