@@ -14,7 +14,7 @@ function reducer(state, action) {
     case "logout":
       return { ...state, user: null, isAuthenticated: false };
     default:
-      throw new Error("Unkown action");
+      throw new Error("Unknown action");
   }
 }
 
